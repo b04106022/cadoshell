@@ -1,0 +1,119 @@
+body {
+    font-family: 'weibei TC';
+    background-color: #24936E;
+    text-align: center;
+    color: #0B1013
+}
+
+/* layout */
+
+header{
+    background-color: #AB3B3A;
+    margin: -2% -3% 0%;
+}
+
+header h1 {
+    padding: 2% 0% 0%;
+}
+
+header h2 {
+    margin: -2px 0px;
+}
+
+header a {
+    color: black;
+}
+
+header ul li {
+    background-color:#B54434;
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+    padding:3px 10px 7px 10px;
+    margin-inline-end: 1%;
+}
+
+header ul li a {
+    color: whitesmoke;
+}
+
+/* biography */
+
+#biography p a {
+    color: #D7C4BB;
+}
+
+#div1 {
+    margin-right: 0%
+}
+
+#div1 {
+    margin-left: 0%
+}
+
+#old {
+    float: left;
+    text-align: left;
+    width:25%;
+    margin: 1% 1% 5% 24%;
+}
+
+#old h2{
+    margin-bottom: 0%;
+}
+
+#old h3{
+    margin-top: 0%
+}
+
+#old ul li {
+    list-style-type: none;
+    text-align: center 
+}
+
+.center {
+    text-align: center;
+}
+
+#new {
+    float: left;
+    text-align: left;
+    width: 25%;
+    margin: 1% 24% 5% 1%;
+}
+
+#new h2{
+    margin-bottom: 0%
+}
+
+#new h3{
+    margin-top: 0%
+}
+
+#new ul li {
+    list-style-type: none;
+    text-align: center
+}
+
+#photoandhistory {
+    padding: 50px 0px 0px;
+}
+
+#lab6 {
+    margin: 5% 15% 5% 15%;
+    text-align: center;
+}
+
+#lab6 h2 {
+    text-align: center
+}
+
+.CAI {
+    color: #D7C4BB
+}
+
+footer {
+    background-color: #6A4028;
+    padding: 2px 0%;
+    margin: -3% -3%;
+}
